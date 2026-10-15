@@ -38,6 +38,10 @@ Each member works only inside their assigned folder and creates a personal webpa
 - Add both teammates by their GitHub usernames or emails.  
 - Each teammate must accept the invitation from their email or GitHub notifications.
 
+
+   ## Team Members
+   - Jaweria (Group Leader)
+   - Izza (Teammate 1)
 ---
 
 ### 🥉 Step 3: Create and Edit Folders
